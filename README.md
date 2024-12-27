@@ -13,6 +13,21 @@ A role-based full-stack application built with **Spring Boot**, **Angular**, **M
 
 ---
 
+## 🖼️ Screenshots
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+### Instructor View
+![Instructor View](screenshots/instructor-view.png)
+
+### Student Course Page
+![Student Course Page](screenshots/student-course-page.png)
+
+> Replace the `screenshots/<filename>.png` paths with the actual relative paths to your screenshot images in your repository.
+
+---
+
 ## 🛠️ Technology Stack
 - **Backend**: Spring Boot, Spring Data JPA, Spring Security, JWT
 - **Frontend**: Angular
