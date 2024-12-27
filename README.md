@@ -34,7 +34,7 @@ A role-based full-stack application built with **Spring Boot**, **Angular**, **M
 ![Student Course Page 3](https://github.com/user-attachments/assets/8d72ac24-4a5e-4d59-ab57-735f5de85604)
 
 ### Database Schema Diagram
-![Schema Diagram](screenshots/schema-diagram.png)
+![Schema Diagram](https://github.com/user-attachments/assets/d7b57f0a-d219-4680-b11b-47fdf8f13dbc)
 
 ---
 
