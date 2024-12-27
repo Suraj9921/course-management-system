@@ -15,6 +15,9 @@ A role-based full-stack application built with **Spring Boot**, **Angular**, **M
 
 ## 🖼️ Screenshots
 
+### Login Page
+![Login Page](https://github.com/user-attachments/assets/394eda6f-0af9-43fc-8053-d627a0e47e4f)
+
 ### Admin Dashboard
 ![Admin Dashboard](screenshots/admin-dashboard.png)
 
@@ -24,7 +27,8 @@ A role-based full-stack application built with **Spring Boot**, **Angular**, **M
 ### Student Course Page
 ![Student Course Page](screenshots/student-course-page.png)
 
-> Replace the `screenshots/<filename>.png` paths with the actual relative paths to your screenshot images in your repository.
+### Database Schema Diagram
+![Schema Diagram](screenshots/schema-diagram.png)
 
 ---
 
