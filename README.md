@@ -24,10 +24,14 @@ A role-based full-stack application built with **Spring Boot**, **Angular**, **M
 ![Admin Dashboard 3](https://github.com/user-attachments/assets/c3896a9c-ad9a-4fcf-8097-8e20a32dd1c7)
 
 ### Instructor View
-![Instructor View](screenshots/instructor-view.png)
+![Instructor View 1](https://github.com/user-attachments/assets/add6fc38-474c-4b65-ae96-35e4f324efd9)
+![Instructor View 2](https://github.com/user-attachments/assets/ad44ccec-ec6b-4cb3-9a1f-2bc4483d2229)
+![Instructor View 3](https://github.com/user-attachments/assets/95f69137-1ff0-44e5-88cd-7015fca1f266)
 
 ### Student Course Page
-![Student Course Page](screenshots/student-course-page.png)
+![Student Course Page 1](https://github.com/user-attachments/assets/03612d18-3076-46fa-9148-a91eab627d2d)
+![Student Course Page 2](https://github.com/user-attachments/assets/9cea4af8-45ab-48e5-ad43-061e3a5ed7e0)
+![Student Course Page 3](https://github.com/user-attachments/assets/8d72ac24-4a5e-4d59-ab57-735f5de85604)
 
 ### Database Schema Diagram
 ![Schema Diagram](screenshots/schema-diagram.png)
