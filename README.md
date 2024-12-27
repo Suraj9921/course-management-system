@@ -19,7 +19,9 @@ A role-based full-stack application built with **Spring Boot**, **Angular**, **M
 ![Login Page](https://github.com/user-attachments/assets/394eda6f-0af9-43fc-8053-d627a0e47e4f)
 
 ### Admin Dashboard
-![Admin Dashboard](screenshots/admin-dashboard.png)
+![Admin Dashboard 1](https://github.com/user-attachments/assets/58768b9b-b0b6-496c-b4ad-cb6097e4fb6b)
+![Admin Dashboard 2](https://github.com/user-attachments/assets/148289f2-4c21-4295-b82c-391b8f6d7e19)
+![Admin Dashboard 3](https://github.com/user-attachments/assets/c3896a9c-ad9a-4fcf-8097-8e20a32dd1c7)
 
 ### Instructor View
 ![Instructor View](screenshots/instructor-view.png)
