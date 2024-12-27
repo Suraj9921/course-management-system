@@ -30,15 +30,4 @@ A role-based full-stack application built with **Spring Boot**, **Angular**, **M
 
 ---
 
-## 🚀 Getting Started
-### Prerequisites
-- **Java 21** installed
-- **Node.js** and **npm** installed
-- **MySQL Server** running
-
-### Steps to Run
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   cd Course-Management
 
