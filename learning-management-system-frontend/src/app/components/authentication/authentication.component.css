@@ -1,0 +1,45 @@
+body {
+  display: block; /* Allow page content to scroll naturally */
+  margin: 0;
+  background-color: #f8f9fa;
+  overflow: auto; /* Enable scrolling for the page content */
+  height: 100vh;
+}
+
+.card {
+  position: fixed; /* Keep the card fixed in place */
+  top: 50%; /* Center vertically */
+  left: 50%; /* Center horizontally */
+  transform: translate(-50%, -50%); /* Ensure proper centering */
+  width: 300px; /* Keep the width of the card */
+  padding: 1rem; /* Add consistent padding */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional shadow */
+  border: none;
+  background-color: #fff; /* Ensure card background contrasts */
+  z-index: 1000; /* Bring the card above other elements */
+}
+
+.card-body {
+  text-align: center;
+  padding: 1rem;
+}
+
+.form-group label {
+  display: block;
+  text-align: left;
+  margin-bottom: 0.5rem;
+  font-size: 0.9rem;
+}
+
+.card-footer {
+  text-align: center;
+  padding: 0.5rem 1rem;
+}
+
+.btn {
+  width: 100%;
+}
+
+.alert {
+  margin-top: 1rem;
+}
